@@ -23,7 +23,6 @@ models:
                 - Cancelled
                 - Shipped
                 - Complete
-                - Returned
 
 
       - name: created_at
