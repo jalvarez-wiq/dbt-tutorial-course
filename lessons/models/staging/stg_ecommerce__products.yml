@@ -1,5 +1,6 @@
 version: 2
 
+
 models:
   - name: stg_ecommerce__products
     description: "Table of products on the online store"
